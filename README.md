@@ -48,6 +48,8 @@ Conclusion
 This script, which I developed, is an efficient and flexible way to generate passwords tailored to user needs. By leveraging Python's random and string modules, it ensures strong, randomized passwords that meet desired criteria for security.
 
 OUTPUT:
+
+
 <img width="298" alt="password" src="https://github.com/user-attachments/assets/c34b8485-1cae-4f25-9e36-cc6aef519fde">
 
 
